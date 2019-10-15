@@ -1,0 +1,11 @@
+Package: Ares
+Type: Package
+Title: Ares
+Version: 1.0
+Date: 2019-10-14
+Author: Shaolong Cao
+Maintainer: Shaolong Cao <caoshaolong@gmail.com>
+Description: Allele and specific expression for somatic mutations in the context of tumor mixture samples.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.1)
+LinkingTo: Rcpp

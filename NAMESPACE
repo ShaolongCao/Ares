@@ -1,0 +1,5 @@
+useDynLib(Ares, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+import(parallel)
+import(Rcpp)
+importFrom(Rcpp, evalCpp)
